@@ -1,0 +1,144 @@
+{
+  "interactions": [
+    {
+      "drug1": "Aspirin",
+      "drug2": "Warfarin",
+      "severity": "CRITICAL",
+      "description": "Increased risk of bleeding due to additive anticoagulant effects",
+      "recommendation": "Avoid combination. If necessary, monitor INR closely and adjust warfarin dose"
+    },
+    {
+      "drug1": "Paracetamol",
+      "drug2": "Alcohol",
+      "severity": "HIGH",
+      "description": "Increased risk of liver damage, especially with chronic alcohol use",
+      "recommendation": "Avoid alcohol consumption while taking paracetamol. Limit paracetamol dose to <2g/day in chronic alcohol users"
+    },
+    {
+      "drug1": "Metformin",
+      "drug2": "Alcohol",
+      "severity": "HIGH",
+      "description": "Increased risk of lactic acidosis",
+      "recommendation": "Avoid excessive alcohol consumption. Monitor for signs of lactic acidosis"
+    },
+    {
+      "drug1": "Ciprofloxacin",
+      "drug2": "Antacids",
+      "severity": "MODERATE",
+      "description": "Reduced absorption of ciprofloxacin due to chelation with metal ions",
+      "recommendation": "Take ciprofloxacin 2 hours before or 6 hours after antacids"
+    },
+    {
+      "drug1": "Ibuprofen",
+      "drug2": "Lisinopril",
+      "severity": "HIGH",
+      "description": "NSAIDs may reduce antihypertensive effect and increase risk of kidney damage",
+      "recommendation": "Monitor blood pressure and kidney function. Consider alternative pain reliever"
+    },
+    {
+      "drug1": "Simvastatin",
+      "drug2": "Grapefruit",
+      "severity": "MODERATE",
+      "description": "Grapefruit inhibits metabolism, increasing statin levels and risk of myopathy",
+      "recommendation": "Avoid grapefruit juice. Consider alternative statin if needed"
+    },
+    {
+      "drug1": "Digoxin",
+      "drug2": "Amiodarone",
+      "severity": "HIGH",
+      "description": "Amiodarone increases digoxin levels, risk of toxicity",
+      "recommendation": "Reduce digoxin dose by 50%. Monitor digoxin levels closely"
+    },
+    {
+      "drug1": "Clopidogrel",
+      "drug2": "Omeprazole",
+      "severity": "MODERATE",
+      "description": "Omeprazole may reduce antiplatelet effect of clopidogrel",
+      "recommendation": "Consider alternative PPI like pantoprazole"
+    },
+    {
+      "drug1": "Levothyroxine",
+      "drug2": "Calcium",
+      "severity": "MODERATE",
+      "description": "Calcium reduces absorption of levothyroxine",
+      "recommendation": "Take levothyroxine 4 hours before or after calcium supplements"
+    },
+    {
+      "drug1": "Azithromycin",
+      "drug2": "Antacids",
+      "severity": "LOW",
+      "description": "Antacids may reduce absorption of azithromycin",
+      "recommendation": "Take azithromycin 1 hour before or 2 hours after antacids"
+    },
+    {
+      "drug1": "Atenolol",
+      "drug2": "Insulin",
+      "severity": "MODERATE",
+      "description": "Beta-blockers may mask symptoms of hypoglycemia",
+      "recommendation": "Monitor blood glucose closely. Educate patient on hypoglycemia symptoms"
+    },
+    {
+      "drug1": "Phenytoin",
+      "drug2": "Folic Acid",
+      "severity": "MODERATE",
+      "description": "Phenytoin reduces folic acid levels; folic acid may reduce phenytoin levels",
+      "recommendation": "Monitor phenytoin levels. Supplement folic acid cautiously"
+    },
+    {
+      "drug1": "Ketoconazole",
+      "drug2": "Antacids",
+      "severity": "HIGH",
+      "description": "Antacids significantly reduce ketoconazole absorption",
+      "recommendation": "Take ketoconazole 2 hours before antacids"
+    },
+    {
+      "drug1": "Amoxicillin",
+      "drug2": "Oral Contraceptives",
+      "severity": "MODERATE",
+      "description": "Antibiotics may reduce effectiveness of oral contraceptives",
+      "recommendation": "Use additional contraceptive methods during antibiotic treatment"
+    },
+    {
+      "drug1": "Diclofenac",
+      "drug2": "Aspirin",
+      "severity": "HIGH",
+      "description": "Increased risk of GI bleeding with combined NSAIDs",
+      "recommendation": "Avoid combination. Use single NSAID at lowest effective dose"
+    },
+    {
+      "drug1": "Amlodipine",
+      "drug2": "Simvastatin",
+      "severity": "MODERATE",
+      "description": "Amlodipine increases simvastatin levels, risk of myopathy",
+      "recommendation": "Limit simvastatin dose to 20mg/day when used with amlodipine"
+    },
+    {
+      "drug1": "Tramadol",
+      "drug2": "SSRIs",
+      "severity": "HIGH",
+      "description": "Increased risk of serotonin syndrome",
+      "recommendation": "Monitor for serotonin syndrome symptoms. Consider alternative analgesic"
+    },
+    {
+      "drug1": "Spironolactone",
+      "drug2": "ACE Inhibitors",
+      "severity": "HIGH",
+      "description": "Increased risk of hyperkalemia",
+      "recommendation": "Monitor potassium levels closely. Avoid potassium supplements"
+    },
+    {
+      "drug1": "Clarithromycin",
+      "drug2": "Statins",
+      "severity": "HIGH",
+      "description": "Clarithromycin increases statin levels, risk of rhabdomyolysis",
+      "recommendation": "Temporarily discontinue statin during clarithromycin treatment"
+    },
+    {
+      "drug1": "Allopurinol",
+      "drug2": "Azathioprine",
+      "severity": "CRITICAL",
+      "description": "Allopurinol inhibits azathioprine metabolism, severe toxicity risk",
+      "recommendation": "Reduce azathioprine dose by 75% if combination necessary. Monitor blood counts"
+    }
+  ]
+}

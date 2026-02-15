@@ -1,0 +1,214 @@
+{
+  "essential_medicines": [
+    {
+      "name": "Paracetamol 500mg",
+      "category": "Analgesics",
+      "common_brands": ["Dolo", "Crocin", "Calpol"],
+      "reorder_level": 100,
+      "priority": "HIGH"
+    },
+    {
+      "name": "Aspirin 75mg",
+      "category": "Antiplatelet",
+      "common_brands": ["Disprin", "Ecosprin"],
+      "reorder_level": 50,
+      "priority": "HIGH"
+    },
+    {
+      "name": "Amoxicillin 500mg",
+      "category": "Antibiotics",
+      "common_brands": ["Novamox", "Mox"],
+      "reorder_level": 50,
+      "priority": "HIGH"
+    },
+    {
+      "name": "Azithromycin 500mg",
+      "category": "Antibiotics",
+      "common_brands": ["Azithral", "Azee"],
+      "reorder_level": 30,
+      "priority": "HIGH"
+    },
+    {
+      "name": "Ciprofloxacin 500mg",
+      "category": "Antibiotics",
+      "common_brands": ["Ciplox", "Cifran"],
+      "reorder_level": 30,
+      "priority": "MEDIUM"
+    },
+    {
+      "name": "Metformin 500mg",
+      "category": "Antidiabetic",
+      "common_brands": ["Glycomet", "Obimet"],
+      "reorder_level": 100,
+      "priority": "HIGH"
+    },
+    {
+      "name": "Insulin (Human)",
+      "category": "Antidiabetic",
+      "common_brands": ["Huminsulin", "Insuman"],
+      "reorder_level": 10,
+      "priority": "CRITICAL"
+    },
+    {
+      "name": "Amlodipine 5mg",
+      "category": "Antihypertensive",
+      "common_brands": ["Amlodac", "Amlong"],
+      "reorder_level": 50,
+      "priority": "HIGH"
+    },
+    {
+      "name": "Atenolol 50mg",
+      "category": "Antihypertensive",
+      "common_brands": ["Aten", "Tenormin"],
+      "reorder_level": 50,
+      "priority": "MEDIUM"
+    },
+    {
+      "name": "Omeprazole 20mg",
+      "category": "Antacids",
+      "common_brands": ["Omez", "Omepral"],
+      "reorder_level": 100,
+      "priority": "HIGH"
+    },
+    {
+      "name": "Pantoprazole 40mg",
+      "category": "Antacids",
+      "common_brands": ["Pan", "Pantocid"],
+      "reorder_level": 50,
+      "priority": "MEDIUM"
+    },
+    {
+      "name": "Cetirizine 10mg",
+      "category": "Antihistamines",
+      "common_brands": ["Cetrizet", "Alerid"],
+      "reorder_level": 50,
+      "priority": "MEDIUM"
+    },
+    {
+      "name": "Montelukast 10mg",
+      "category": "Respiratory",
+      "common_brands": ["Montair", "Montek"],
+      "reorder_level": 30,
+      "priority": "MEDIUM"
+    },
+    {
+      "name": "Salbutamol Inhaler",
+      "category": "Respiratory",
+      "common_brands": ["Asthalin", "Ventolin"],
+      "reorder_level": 20,
+      "priority": "HIGH"
+    },
+    {
+      "name": "Diclofenac 50mg",
+      "category": "NSAIDs",
+      "common_brands": ["Voveran", "Dynapar"],
+      "reorder_level": 50,
+      "priority": "MEDIUM"
+    },
+    {
+      "name": "Ibuprofen 400mg",
+      "category": "NSAIDs",
+      "common_brands": ["Brufen", "Combiflam"],
+      "reorder_level": 50,
+      "priority": "MEDIUM"
+    },
+    {
+      "name": "ORS Sachets",
+      "category": "Rehydration",
+      "common_brands": ["Electral", "ORS"],
+      "reorder_level": 100,
+      "priority": "CRITICAL"
+    },
+    {
+      "name": "Multivitamin Tablets",
+      "category": "Supplements",
+      "common_brands": ["Becosules", "Supradyn"],
+      "reorder_level": 50,
+      "priority": "LOW"
+    },
+    {
+      "name": "Calcium + Vitamin D3",
+      "category": "Supplements",
+      "common_brands": ["Shelcal", "Calcimax"],
+      "reorder_level": 50,
+      "priority": "MEDIUM"
+    },
+    {
+      "name": "Levothyroxine 50mcg",
+      "category": "Thyroid",
+      "common_brands": ["Thyronorm", "Eltroxin"],
+      "reorder_level": 30,
+      "priority": "HIGH"
+    },
+    {
+      "name": "Atorvastatin 10mg",
+      "category": "Lipid Lowering",
+      "common_brands": ["Atorva", "Lipitor"],
+      "reorder_level": 50,
+      "priority": "MEDIUM"
+    },
+    {
+      "name": "Clopidogrel 75mg",
+      "category": "Antiplatelet",
+      "common_brands": ["Clopivas", "Plavix"],
+      "reorder_level": 30,
+      "priority": "HIGH"
+    },
+    {
+      "name": "Ranitidine 150mg",
+      "category": "Antacids",
+      "common_brands": ["Aciloc", "Rantac"],
+      "reorder_level": 50,
+      "priority": "MEDIUM"
+    },
+    {
+      "name": "Domperidone 10mg",
+      "category": "Antiemetic",
+      "common_brands": ["Domstal", "Vomistop"],
+      "reorder_level": 30,
+      "priority": "MEDIUM"
+    },
+    {
+      "name": "Loperamide 2mg",
+      "category": "Antidiarrheal",
+      "common_brands": ["Eldoper", "Imodium"],
+      "reorder_level": 30,
+      "priority": "MEDIUM"
+    },
+    {
+      "name": "Betadine Solution",
+      "category": "Antiseptic",
+      "common_brands": ["Betadine"],
+      "reorder_level": 20,
+      "priority": "MEDIUM"
+    },
+    {
+      "name": "Cotton Bandage",
+      "category": "First Aid",
+      "common_brands": ["Generic"],
+      "reorder_level": 50,
+      "priority": "MEDIUM"
+    },
+    {
+      "name": "Surgical Gloves",
+      "category": "Medical Supplies",
+      "common_brands": ["Generic"],
+      "reorder_level": 100,
+      "priority": "MEDIUM"
+    },
+    {
+      "name": "Digital Thermometer",
+      "category": "Medical Devices",
+      "common_brands": ["Omron", "Dr. Morepen"],
+      "reorder_level": 10,
+      "priority": "LOW"
+    },
+    {
+      "name": "Blood Pressure Monitor",
+      "category": "Medical Devices",
+      "common_brands": ["Omron", "Dr. Morepen"],
+      "reorder_level": 5,
+      "priority": "LOW"
+    }
+  ]
+}
